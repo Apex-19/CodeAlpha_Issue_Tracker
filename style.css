@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+    text-align: center;
+    align-items: center;
+}
+
+.container{
+    padding: 10px;
+    padding-left: 30px;
+}
+
+.head{
+    padding:2px 50px 30px 50px;
+}
+
+#add-issue{
+    background-color: black;
+    color: white;
+}
